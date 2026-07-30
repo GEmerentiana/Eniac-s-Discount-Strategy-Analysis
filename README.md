@@ -28,24 +28,33 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 * Python with Pandas Library for analysis
 * Seaborn for visualization
 
-## Data Calculation and  Analysis:
+## Data Calculation:
+1. Discount percentages
+2. Number of discounted products
+3. Time period that the dataset covers
+4. Overall revenue for that time
+5. Revenue for each product
+6. Revenue of each month
+7. Average discount percentage of each month
+8. Monthly order quantity (number of products sold)
+9. Total orders of each product category
+
+
+## Data analysis:
 1. Categorizing the products
-2. Calculate the discount percentages
-3. Calculate the number of discounted products
-4. Calculate the time period that the dataset covers
-5. Calculate the overall revenue for that time
-6. Calculate the revenue for each product
-7. Calculate the revenue of each month
-8. Calculate the average discount percentage of each month
-9. Analyze the relation between monthly revenue and monthly average percentage of the discountt
-10. Calculate monthly order quantity (number of products sold)
-11. Analyze the relation between monthly revenue and monthly order quantity (number of products sold)
-12.  Analyze the relation between monthly average percentage of the discount and monthly order quantity (number of products sold)
-13.  Analyze how seasonality (seasonal patterns) and special dates (Christmas, Black Friday) affect sales
-14.  Find the brands with the highest revenue
-15.  Find the most sold brands
-16.   Analyze the relation between the number of product sold and its revenue by brands
-17.   Find the product categories with the highest revenue
-18.   Calculate the total orders of each product category
-19.   Analyze the relation between the number of product sold and its revenue by product categories
-20.   
+2. Analyze the relation between monthly revenue and monthly average percentage of the discountt
+3. Analyze the relation between monthly revenue and monthly order quantity (number of products sold)
+4. Analyze the relation between monthly average percentage of the discount and monthly order quantity (number of products sold)
+5. Analyze how seasonality (seasonal patterns) and special dates (Christmas, Black Friday) affect sales
+6. List the brands with the highest revenue
+7. List the most sold brands
+8. Analyze the relation between the number of product sold and its revenue by brands
+9. List the product categories with the highest revenue
+10. Analyze the relation between the number of product sold and its revenue by product categories
+
+## Data Visualization:
+1. Monthly revenue from each product category
+2. Distribution of the product prices across different product categories
+3. Distribution of the product prices across different brands
+
+
