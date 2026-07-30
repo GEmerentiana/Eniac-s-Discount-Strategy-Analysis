@@ -11,3 +11,14 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 **Contra**: (Main Investor in the Board)
 * Discount increase the orders placed, but a decrease in the totl revenue.
 * They prefer the quality segment than competing to offer the lowes price.
+
+## Analysis Procedures:
+1. Data Cleaning
+2. Data Quality Assessment & Data Manipulation
+3. Data Analysis
+4. Data Visualization
+
+## Tools:
+* Python with Pandas Library for analysis
+* Seaborn for visualization
+
