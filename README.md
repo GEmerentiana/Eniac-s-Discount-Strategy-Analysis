@@ -47,3 +47,5 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 16.   Analyze the relation between the number of product sold and its revenue by brands
 17.   Find the product categories with the highest revenue
 18.   Calculate the total orders of each product category
+19.   Analyze the relation between the number of product sold and its revenue by product categories
+20.   
