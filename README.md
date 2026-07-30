@@ -1,8 +1,8 @@
-## Eniac-s-Discount-Strategy-Analysis
+# Eniac's-Discount-Strategy-Analysis
 
 This analysis is to answer the question, whether Eniac's discount strategy beneficial or not.
 
-# Eniac's Debate:
+## Eniac's Debate:
 Pro: (Marketing Team Lead)
 * Discount improve customer acquisition, satisfaction and retention.
 * Discount allows the company to grow.
