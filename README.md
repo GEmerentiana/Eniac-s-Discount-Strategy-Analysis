@@ -18,7 +18,7 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 3. Data Analysis
 4. Data Visualization
 
-## Data:
+## Datasets:
 1. Products
 2. Orders
 3. Orderlines
