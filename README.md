@@ -12,12 +12,6 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 * Discount increase the orders placed, but a decrease in the totl revenue.
 * They prefer the quality segment than competing to offer the lowes price.
 
-## Analysis Procedures:
-1. Data Cleaning
-2. Data Quality Assessment & Data Manipulation
-3. Data Analysis
-4. Data Visualization
-
 ## Datasets:
 1. Products
 2. Orders
@@ -27,6 +21,12 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 ## Tools:
 * Python with Pandas Library for analysis
 * Seaborn for visualization
+
+## Analysis Procedures:
+1. Data Cleaning
+2. Data Quality Assessment & Data Manipulation
+3. Data Analysis
+4. Data Visualization
 
 ## Data Calculation:
 1. Discount percentages
@@ -57,4 +57,15 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 2. Distribution of the product prices across different product categories
 3. Distribution of the product prices across different brands
 
+## Analysis Summary:
+1. Distribution and the analysis of the Discounts
+2. Discount in relation with revenue and numbers of product sold (Volume and Value)
+3. Seasonal pattern
 
+## Data improvement recommendation (for a better analysis):
+1. Revenue data (before the discount period)
+2. Customer satisfaction data (before and after the discount period)
+3. Delivery costs
+4. Missing price data
+5. Fix categories of products
+6. Suitable data format
