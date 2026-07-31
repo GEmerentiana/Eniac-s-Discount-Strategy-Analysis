@@ -28,7 +28,7 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 3. Data Analysis
 4. Data Visualization
 
-## Data Assessments:
+## Data Assessment:
 1. Discount percentages
 2. Number of discounted products
 3. Time period that the dataset covers
@@ -40,7 +40,7 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 9. Total orders of each product category
 
 
-## Data analysis:
+## Data Analysis:
 1. Categorizing the products
 2. Analyze the relation between monthly revenue and monthly average percentage of the discountt
 3. Analyze the relation between monthly revenue and monthly order quantity (number of products sold)
@@ -62,7 +62,7 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 2. Discount in relation with revenue and numbers of product sold (Volume and Value)
 3. Seasonal pattern
 
-## Data improvement recommendation (for a better analysis):
+## Data Improvement Recommendation (for a better analysis):
 1. Revenue data (before the discount period)
 2. Customer satisfaction data (before and after the discount period)
 3. Delivery costs
