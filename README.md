@@ -28,7 +28,7 @@ This analysis is to answer the question, whether Eniac's discount strategy benef
 3. Data Analysis
 4. Data Visualization
 
-## Data Calculation:
+## Data Assessments:
 1. Discount percentages
 2. Number of discounted products
 3. Time period that the dataset covers
